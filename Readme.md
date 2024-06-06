@@ -6,7 +6,6 @@ I'm Muzaffer Dede, a Full Stack Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@muzafferdede-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/muzafferdede)](https://twitter.com/muzafferdede) [![Linkedin Badge](https://img.shields.io/badge/-MuzafferDede-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzafferdede)
 
-- 🔭 I’m currently working as freelancer
 - :computer: Most used line of code `"clear"`
 
 #### Top Technologies
